@@ -1,5 +1,5 @@
-# Chapter Two What was I thinking
+# Chapter Two The Case for Expectation Management
 
-Here is some great text talking about the begining of stuff.
 
-##  This is the second level heading
+
+##  When Everything Goes Wrong
