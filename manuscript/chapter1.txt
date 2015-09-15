@@ -12,7 +12,6 @@ Expectation management means
 
 Failure to meet your stakeholder’s expectations always results in a feeling of disappointment with the stakeholder. If they aren’t disappointed then they did not have a real expectation.  Expectations can be implied or explicit.  Both are equally important and can each result in the stakeholder feeling like their expectation has not been met. 
 
-
 ## What is Expectation Management ##
 In a nutshell, expectation management is simply the effective use of communication tools to gather, assimiliate and react to the stated and unstated expectations of other people and organizations.
 
