@@ -4,14 +4,14 @@
 > At the begining of my chapter
 
 ## Introduction ##
-From the begining of recorded history people have had expectations of others that those people, more often than not, failed to meet.Expectation management is a topic that spans all of time and is plastered across the human expereince.  There are those people in this world who, for one reason or another, have mastered the ability to effectively track and manage the expectations of others in order to achieve a satisfied stakeholder.  This book is for the rest of us.
+From the begining of recorded history people have had both stated and unstated expectations of others. More often than not, those people failed to meet those expectations.  Expectation management is a topic that spans all of time and is plastered across the human expereince.  When it is done well, relationships thrive.  When it is done poorly, our experiences suffer... sometimes with drastic consequences.  There are those people in this world who, for one reason or another, have mastered the ability to effectively track and manage the expectations of others in order to achieve a satisfied stakeholder.  This book is for the rest of us.
 
-Over the past several years it has become apparent there are many factors that negatively impact project success.  A key portion of this problem is the concept of project success in the eyes of the stakeholder.  In the end no project can be successful unless the key stakeholder’s expectations have been managed and met. 
+Over the past several years it has become apparent there are many factors that negatively impact project success.  A key portion of this problem is how project success is viewed in the eyes of the stakeholder.  In the end no project can be successful unless the key stakeholder’s expectations have been managed and met. 
 
-Expectation management means
-* Understanding what the customer wants/needs
-* Understanding the context of the customers wants/needs
-* Understanding the customers priorities
+_Expectation management means_
++ Understanding what the customer wants/needs
++ Understanding the context of the customers wants/needs
++ Understanding the customers priorities
 
 Failure to meet your stakeholder’s expectations always results in a feeling of disappointment with the stakeholder. If they aren’t disappointed then they did not have a real expectation.  Expectations can be implied or explicit.  Both are equally important and can each result in the stakeholder feeling like their expectation has not been met. 
 
