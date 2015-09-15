@@ -1,5 +1,8 @@
 ﻿# Chapter One - An Introduction to Expectation Management
 
+> This is a block quote
+> At the begining of my chapter
+
 ## Introduction ##
 From the begining of recorded history people have had expectations of others that those people, more often than not, failed to meet.Expectation management is a topic that spans all of time and is plastered across the human expereince.  There are those people in this world who, for one reason or another, have mastered the ability to effectively track and manage the expectations of others in order to achieve a satisfied stakeholder.  This book is for the rest of us.
 
